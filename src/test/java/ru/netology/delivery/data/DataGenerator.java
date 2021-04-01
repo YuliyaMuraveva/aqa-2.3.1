@@ -43,7 +43,6 @@ public class DataGenerator {
         }
     }
 
-    @Data
     @AllArgsConstructor
     @Value
     public static class UserInfo {
